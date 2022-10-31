@@ -66,3 +66,9 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+
+### Storybook with [Storybook](https://storybook.js.org/docs/vue/get-started)
+
+```sh
+npm run storybook
+```
